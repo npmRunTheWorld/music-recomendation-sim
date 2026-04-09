@@ -44,6 +44,6 @@ Implement the full music recommender system including CSV loading, song scoring,
 ## QA
 | Field | Value |
 |---|---|
-| Status | |
-| Issues | |
-| Over-engineered? | |
+| Status | PASS |
+| Issues | None — all 5 acceptance criteria verified: CLI prints top 5 with scores/reasons, pytest 2/2 pass, 3 profiles produce distinct top-1, README and model_card fully completed |
+| Over-engineered? | N |
